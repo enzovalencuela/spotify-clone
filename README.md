@@ -27,7 +27,7 @@ O objetivo deste projeto é criar uma réplica da interface do Spotify, aplicand
 
 ## 📚 Base de Conhecimento
 
-Para iniciar este projeto, utilizei como base um vídeo tutorial do [canal DevClub no YouTube](https://www.youtube.com/@DevClub). O tutorial ofereceu uma excelente introdução sobre como estruturar o layout e adicionar os primeiros elementos de interatividade.
+Para iniciar este projeto, utilizei como base um vídeo tutorial do [canal DevClub no YouTube](https://www.youtube.com/@canaldevclub). O tutorial ofereceu uma excelente introdução sobre como estruturar o layout e adicionar os primeiros elementos de interatividade.
 
 ## 🖼️ Layout Atual
 
@@ -61,7 +61,7 @@ As próximas etapas incluem:
 
 ## 🔗 Links
 
-- [Projeto original no YouTube - DevClub](https://www.youtube.com/@DevClub)
+- [Projeto original no YouTube - DevClub](https://www.youtube.com/@canaldevclub)
 - [Meu portfólio](https://my-portifoli.netlify.app/)
 
 ## 🤝 Contribuição
